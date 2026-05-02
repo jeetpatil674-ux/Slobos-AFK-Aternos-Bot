@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "NoobRayansh",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "EmpireSMP07.aternos.me",
-    "port": 32475,
+    "ip": "Smp207.aternos.me:54421",
+    "port": 54421,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Rayansh is a noob player lol",
+        "Rayansh is not an indian",
+        "Jeet is a God Legendary Player"
       ]
     },
     "chat-log": true,
